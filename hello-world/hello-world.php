@@ -8,7 +8,7 @@ Author: Your Name
 
 // Function to echo "Hello World"
 function hello_world() {
-    echo '<p>Hello World</p>';
+    echo '<p>Hello World!</p>';
 }
 
 // Hook the function to the WordPress 'wp_footer' action
